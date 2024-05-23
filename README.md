@@ -1,13 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gilang</h1>
-<h3 align="center">A student studying Computer Engineering at Bandung School of Technology, enthusiastic about delving into the realms of Web Development, Data Science, and Machine Learning.</h3>
+<h3 align="center">A student studying Computer Engineering at Bandung University of Technology, enthusiastic about delving into the realms of Web Development, Data Science, Machine Learning, and Mobile Development.</h3>
 
 - 🔭 I’m currently working on [Oxigen project](https://gilangnr.github.io/LeisureLooks/)
-
-- 🌱 I’m currently learning **Tensorflow, CNN, Keras**
-
-- 👯 I’m looking to collaborate on [Machine Learning project](https://github.com/gilangnr/image-classification)
-
-- 🤝 I’m looking for collaborate on [Data science project](https://e-commercepublicdataset-bzw5juhctgjx7p5muauroc.streamlit.app/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/gilangnr](https://github.com/gilangnr)
 
