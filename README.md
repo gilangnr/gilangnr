@@ -3,7 +3,6 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=gilangnr&style=for-the-badge&base=1530" alt="Gilang's Profile Views" />
 </div>
-- 🔭 I’m currently working on [Oxigen project](https://gilangnr.github.io/LeisureLooks/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/gilangnr](https://github.com/gilangnr)
 
