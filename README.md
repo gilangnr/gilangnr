@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gilang</h1>
-<h3 align="center">A student studying Computer Engineering at Bandung University of Technology, enthusiastic about delving into the realms of Web Development, Data Science, Machine Learning, and Mobile Development</h3>
+<h3 align="center">A student studying Computer Engineering at Bandung University of Technology, enthusiastic about delving into the realms of Web Development, Data Science, Machine Learning, and Mobile Development.</h3>
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=gilangnr&style=for-the-badge&base=1530" alt="Gilang's Profile Views" />
 </div>
